@@ -3,7 +3,7 @@ pandas
 #use in face recognition
 scikit-learn
 #use to make rectangle on face 
-dilb-bin
+# dilb
 #ab face ka ek-ek distance niklna ab hm usko github ke source se download 
 git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
@@ -16,6 +16,6 @@ bcrypt
  #use for generating qr by giving link
  segno 
  #use ror importing image 
-pillo  
+pillow
 #use ror importing image 
 streamlit  
