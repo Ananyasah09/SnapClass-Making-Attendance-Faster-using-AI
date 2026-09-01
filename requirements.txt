@@ -4,7 +4,7 @@ pandas
 #use in face recognition
 scikit-learn
 #use to make rectangle on face 
-dlib==19.24.6
+dlib-bin==19.24.6
 
 #ab face ka ek-ek distance niklna ab hm usko github ke source se download 
 
