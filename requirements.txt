@@ -4,11 +4,12 @@ pandas
 #use in face recognition
 scikit-learn
 #use to make rectangle on face 
-dilb = 19.24.6
+dlib==19.24.6
+
 #ab face ka ek-ek distance niklna ab hm usko github ke source se download 
+
 git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
-
 
 #ab database ke liye 
 supabase  #data ko 1,2 gb dega jisko store krna h 
