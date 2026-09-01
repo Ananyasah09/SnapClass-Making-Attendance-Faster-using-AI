@@ -23,4 +23,4 @@ def home_screen():
        if st.button('Teacher Portal',type="primary",icon=":material/arrow_outward:",icon_position="right"):
         st.session_state['login_type'] ='Teacher'
         st.rerun()
-footer_home()
+  footer_home()

@@ -1,3 +1,4 @@
+streamlit  
 numpy 
 pandas
 #use in face recognition
@@ -14,8 +15,10 @@ supabase  #data ko 1,2 gb dega jisko store krna h
 
 bcrypt
  #use for generating qr by giving link
- segno 
+segno 
  #use ror importing image 
 pillow
-#use ror importing image 
-streamlit  
+
+# this use in voice pipeline iska kam hota h audio files ko load krna edit
+librosa
+resemblyzer  #ye unki embedding bnata h files ki
